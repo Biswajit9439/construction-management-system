@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+.h2
+{
+	text-align:center;
+	color:blue;
+}
+body
+{
+	border:3px solid red;
+	background-color:#80ff00;
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+fieldset
+{
+	color:red;
+	border:3px solid black;
+	margin:0 auto;
+	padding:1em;
+
+}
+.field
+{
+	border-color:red;
+}
